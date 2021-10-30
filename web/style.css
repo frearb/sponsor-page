@@ -98,7 +98,7 @@ a{
 	background-image: url(images/paypal.svg);
 }
 #donateBox>#BTC {
-	background-image: url(images/bitcoin.svg);
+	background-image: url(images/dogecoin.png);
 	line-height: 28px;
 }
 #donateBox>#BTC:hover {
